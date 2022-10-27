@@ -1,1 +1,1 @@
-# GoCorona-Landinpage
+# GoCorona-Landingpage
